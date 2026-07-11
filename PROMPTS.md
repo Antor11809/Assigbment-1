@@ -1,0 +1,1 @@
+I want to make a sponsor section for an event named "DEVCONF 2026". Give me ideas how can i make a section where i can highlight the sponsors of the event.
