@@ -25,12 +25,12 @@ ul li a{
     padding: 0;
 }
 .btn{
-    padding: 12px 24px;
+    padding: 12px 30px;
     margin-right: 50px;
     background: #2563EB; 
     color: white;
     border: none;
-    border-radius: px;
+    border-radius: 10px;
     font-weight: 600;
     cursor: pointer;
 }
@@ -81,6 +81,7 @@ header{
     font-size: 18px;
     font-weight: 600;
     cursor: pointer;
+    margin-top: 90px;
 }
 .speaker-container{
     display: grid;
